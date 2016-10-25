@@ -1,0 +1,7 @@
+New log file opened at Tue Oct 25 09:34:07 EET 2016 by 8476@Manar-Anan
+Taking next connection to: 52726
+New client attempting to connect on port: 52727-52726
+  Address = /10.0.8.133:52726
+This client on port 52727 has uuid af91b62f-3830-4974-8b5d-df54da2c9d37 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-af91b62f-3830-4974-8b5d-df54da2c9d37
+Taking next connection to: 52726
